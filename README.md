@@ -1,1 +1,1 @@
-Trading Bot 
+Simple Trading Bot For MT5
